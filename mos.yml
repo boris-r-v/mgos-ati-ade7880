@@ -1,0 +1,20 @@
+author: Boris Rozhkin borisrozhkin@gmail.com
+
+type: lib
+description: The ADE7880 data handle lib
+
+includes:
+  - src
+
+sources:
+  - src
+
+libs:
+
+tags:
+  - c
+  - js
+  - docs:misc:Module_ATI
+
+manifest_version: 2017-09-29
+
